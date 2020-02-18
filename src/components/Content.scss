@@ -1,0 +1,69 @@
+.content {
+  height: 100%;
+  width: 100%;
+  background-color: #030000;
+  z-index: 0;
+  top: 100%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  & .content-wrapper {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    & .content-images {
+      width: 70%;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-around;
+
+      & .content-image-wrapper {
+        height: 220px;
+        width: 150px;
+        text-align: center;
+        position: relative;
+
+        & img {
+          max-width: 100%;
+          width: 100%;
+          max-height: 100%;
+          height: 100%;
+        }
+
+        & h4 {
+          font-size: 1.8em;
+          position: relative;
+          top: -30px;
+          opacity: 0.6;
+        }
+
+        &.one {
+          top: -10px;
+        }
+        &.two {
+          top: -50px;
+        }
+        &.three {
+          top: 20px;
+        }
+        &.four {
+          top: -20px;
+        }
+      }
+    }
+
+    & .text {
+      padding-top: 100px;
+      width: 60%;
+      font-size: 0.8em;
+      text-align: center;
+    }
+  }
+}

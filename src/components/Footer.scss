@@ -1,0 +1,20 @@
+.footer-wrapper {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: 100;
+
+  & ul {
+    list-style: none;
+    margin-bottom: 20px;
+    margin-right: 30px;
+
+    & li {
+      display: inline;
+      color: white;
+      font-family: "Montserrat", sans-serif;
+      font-size: 0.8em;
+      margin-left: 20px;
+    }
+  }
+}

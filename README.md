@@ -1,5 +1,36 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a React conversion of a Vanilla JS project based on Dev V's [Youtube Tutorial](https://www.youtube.com/watch?v=nnigKgD1d8k&t=494s).
+
+Although this conversion has a couple bugs, this can be used to bootstrap future projects.
+
+This includes the following packages:
+
+1. node-sass
+
+- Node-sass is a library that provides binding for Node.js to LibSass, the C version of the popular stylesheet preprocessor, Sass.
+
+`npm i node-sass`
+
+2. gsap
+
+- GSAP is a JavaScript library for building high-performance animations that work in every major browser.
+
+`npm install gsap`
+
+3. scrollmagic
+
+- ScrollMagic helps you to easily react to the user's current scroll position.
+
+`npm install scrollmagic`
+
+4. scrollmagic-plugin-gsap
+
+- Original animation.gsap.js plugin for ScrollMagic is not compatible with ES6 modules, so it's causing a number of problems to add it in ES6 environment.
+- This is a fix to make gsap and scrollmagic to work properly
+
+`npm install --save scrollmagic-plugin-gsap`
+
 ## Available Scripts
 
 In the project directory, you can run:

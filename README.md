@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is a React conversion of a Vanilla JS project based on Dev V's [Youtube Tutorial](https://www.youtube.com/watch?v=nnigKgD1d8k&t=494s).
+This is a React conversion of a Parallax project in Vanilla JS from Dev V's [Youtube Tutorial](https://www.youtube.com/watch?v=nnigKgD1d8k&t=494s).
 
 Although this conversion has a couple bugs, this can be used to bootstrap future projects.
 

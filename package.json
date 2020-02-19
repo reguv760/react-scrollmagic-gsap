@@ -1,6 +1,6 @@
 {
   "name": "react-gsap-scrollmagic",
-  "homepage": "http://reguv760.github.io/react-scrollmagic-gsap"
+  "homepage": "http://reguv760.github.io/react-scrollmagic-gsap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

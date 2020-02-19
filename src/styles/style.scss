@@ -1,7 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Oswald:700|Poppins");
 
+@import "./base/variables";
 @import "./base/_base";
 @import "../components/Navigation";
 @import "../components/HeroImage";
 @import "../components/Content";
 @import "../components/Footer";
+
+@import "./base/mediaQuery";

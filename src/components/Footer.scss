@@ -1,20 +1,18 @@
 .footer-wrapper {
   position: absolute;
-  bottom: 0;
-  right: 0;
   z-index: 100;
 
   & ul {
     list-style: none;
-    margin-bottom: 20px;
-    margin-right: 30px;
+    margin-bottom: 1rem;
+    margin-right: 1.5rem;
 
     & li {
       display: inline;
-      color: white;
+      color: $white;
       font-family: "Montserrat", sans-serif;
       font-size: 0.8em;
-      margin-left: 20px;
+      margin-left: 2rem;
     }
   }
 }

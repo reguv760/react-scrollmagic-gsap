@@ -15,26 +15,26 @@ function HeroImage() {
       <div className='title'>Title</div>
       <div className='images'>
         <div className='image-wrapper' id='first'>
-          <img src={ImageSix} alt='6' />
+          <img src={ImageOne} alt='1' />
         </div>
         <div className='image-wrapper' id='second'>
-          <img src={ImageFive} alt='5' />
+          <img src={ImageTwo} alt='2' />
         </div>
         <div className='image-wrapper' id='third'>
-          <img src={ImageFour} alt='4' />
+          <img src={ImageThree} alt='3' />
         </div>
         <div className='image-wrapper' id='forth'>
-          <img src={ImageThree} alt='3' />
+          <img src={ImageFour} alt='4' />
         </div>
 
         <div className='image-wrapper' id='fifth'>
-          <img src={ImageTwo} alt='2' />
+          <img src={ImageFive} alt='5' />
         </div>
         <div className='image-wrapper' id='sixth'>
-          <img src={ImageOne} alt='1' />
+          <img src={ImageSix} alt='6' />
         </div>
 
-        <div className='blur'></div>
+        {/* <div className='blur'></div> */}
       </div>
     </div>
   );

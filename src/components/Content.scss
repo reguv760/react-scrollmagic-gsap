@@ -1,9 +1,9 @@
 .content {
-  height: 100%;
-  width: 100%;
-  background-color: #030000;
+  // height: 100%;
+  // width: 100%;
+  background-color: $off-black;
   z-index: 0;
-  top: 100%;
+  // top: 100%;
   position: absolute;
   display: flex;
   justify-content: center;
@@ -25,8 +25,8 @@
       justify-content: space-around;
 
       & .content-image-wrapper {
-        height: 220px;
-        width: 150px;
+        height: 11rem;
+        width: 7.5rem;
         text-align: center;
         position: relative;
 
@@ -40,27 +40,27 @@
         & h4 {
           font-size: 1.8em;
           position: relative;
-          top: -30px;
+          top: -3rem;
           opacity: 0.6;
         }
 
         &.one {
-          top: -10px;
+          top: -1rem;
         }
         &.two {
-          top: -50px;
+          top: -5rem;
         }
         &.three {
-          top: 20px;
+          top: 2rem;
         }
         &.four {
-          top: -20px;
+          top: -2rem;
         }
       }
     }
 
     & .text {
-      padding-top: 100px;
+      padding-top: 5rem;
       width: 60%;
       font-size: 0.8em;
       text-align: center;

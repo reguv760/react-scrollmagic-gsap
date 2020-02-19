@@ -22,7 +22,7 @@ class App extends React.Component {
     let timeline = new TimelineMax();
     timeline
       .to("#sixth", 6, {
-        y: -700
+        y: -600
       })
       .to(
         "#fifth",
@@ -65,7 +65,7 @@ class App extends React.Component {
         "-=6"
       )
       .to(
-        ".content, .blur",
+        ".content",
         6,
         {
           top: "0%"
@@ -74,7 +74,7 @@ class App extends React.Component {
       )
       .to(
         ".title, nav, .footer-wrapper",
-        6,
+        5,
         {
           y: -600,
           autoAlpha: 0

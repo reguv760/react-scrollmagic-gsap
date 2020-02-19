@@ -45,7 +45,7 @@ function Content() {
           snackwave normcore microdosing poke gochujang, butcher photo booth
           franzen mixtape ennui selvage.
         </p>
-        <p className='text'>
+        {/* <p className='text'>
           Hammock XOXO gastropub woke stumptown. Wolf photo booth lo-fi
           chicharrones tote bag. Actually selfies affogato cred. 90's hot
           chicken 8-bit post-ironic. Bicycle rights blog brooklyn four dollar
@@ -62,7 +62,7 @@ function Content() {
           chicharrones tote bag. Actually selfies affogato cred. 90's hot
           chicken 8-bit post-ironic. Bicycle rights blog brooklyn four dollar
           toast microdosing.
-        </p>
+        </p> */}
       </div>
     </div>
   );

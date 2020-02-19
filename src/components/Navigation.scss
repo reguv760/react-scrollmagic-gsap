@@ -5,22 +5,27 @@
   position: absolute;
   top: 0;
   align-items: center;
-  padding: 20px 0;
+  padding: 1rem 0;
 
   & h4 {
-    color: #fff;
+    color: $white;
     font-family: "Montserrat", sans-serif;
-    margin-left: 30px;
+    margin-left: 3rem;
   }
 
   & .button {
     text-decoration: none;
-    color: #fff;
+    color: $white;
     font-family: "Montserrat", sans-serif;
-    padding: 10px 20px;
-    background-color: #030000;
-    margin-right: 30px;
-    border-radius: 20px;
+    padding: 0.5rem 1rem;
+    background-color: $off-black;
+    margin-right: 3rem;
+    border-radius: 2rem;
     font-size: 0.8em;
+
+    &:hover {
+      color: $off-black;
+      background-color: $white;
+    }
   }
 }

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-scrollmagic-gsap/static/css/main.d47b5f51.chunk.css",
+    "main.js": "/react-scrollmagic-gsap/static/js/main.68bfb0b2.chunk.js",
+    "main.js.map": "/react-scrollmagic-gsap/static/js/main.68bfb0b2.chunk.js.map",
+    "runtime-main.js": "/react-scrollmagic-gsap/static/js/runtime-main.b27e40c4.js",
+    "runtime-main.js.map": "/react-scrollmagic-gsap/static/js/runtime-main.b27e40c4.js.map",
+    "static/js/2.9c44ad10.chunk.js": "/react-scrollmagic-gsap/static/js/2.9c44ad10.chunk.js",
+    "static/js/2.9c44ad10.chunk.js.map": "/react-scrollmagic-gsap/static/js/2.9c44ad10.chunk.js.map",
+    "index.html": "/react-scrollmagic-gsap/index.html",
+    "precache-manifest.00cd363ca389584a1cb3e628874f9095.js": "/react-scrollmagic-gsap/precache-manifest.00cd363ca389584a1cb3e628874f9095.js",
+    "service-worker.js": "/react-scrollmagic-gsap/service-worker.js",
+    "static/css/main.d47b5f51.chunk.css.map": "/react-scrollmagic-gsap/static/css/main.d47b5f51.chunk.css.map",
+    "static/js/2.9c44ad10.chunk.js.LICENSE.txt": "/react-scrollmagic-gsap/static/js/2.9c44ad10.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/react-scrollmagic-gsap/static/media/1.44ce4c7e.png",
+    "static/media/2.png": "/react-scrollmagic-gsap/static/media/2.73c8e739.png",
+    "static/media/3.png": "/react-scrollmagic-gsap/static/media/3.82937ac3.png",
+    "static/media/4.png": "/react-scrollmagic-gsap/static/media/4.24c44af6.png",
+    "static/media/5.png": "/react-scrollmagic-gsap/static/media/5.588e438a.png",
+    "static/media/6.png": "/react-scrollmagic-gsap/static/media/6.21819e13.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b27e40c4.js",
+    "static/js/2.9c44ad10.chunk.js",
+    "static/css/main.d47b5f51.chunk.css",
+    "static/js/main.68bfb0b2.chunk.js"
+  ]
+}
